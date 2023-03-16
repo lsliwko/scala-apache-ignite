@@ -8,7 +8,7 @@ import sbt.Package.ManifestAttributes
 
 val now = System.currentTimeMillis
 
-name := "synechron-test"
+name := "scala-apache-ignite"
 version := "1.0.0"
 
 scalaVersion := "2.13.8"
